@@ -1,0 +1,26 @@
+body {
+  width: 600px;
+  margin: 0 auto 50px auto;
+  border: 1px solid rgb(235, 238, 240);
+  background: rgb(247, 249, 250);
+}
+
+a {
+  text-decoration: none;
+}
+
+.post {
+  background: white;
+  border: 1px solid rgb(235, 238, 240);
+}
+
+/* .postContents {
+  background: white;
+  border: 1px solid rgb(235, 238, 240);
+
+} */
+
+.postBlock {
+  background: white;
+  border: 1px solid rgb(235, 238, 240);
+}
